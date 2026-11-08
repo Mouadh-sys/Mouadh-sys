@@ -33,7 +33,7 @@ and exploring the intersection of security and reliability.
 
 ## Technology Stack
 
-<!-- Technology icons here -->
+[![My Skills](https://skillicons.dev/icons?i=fastapi,linux,postgres,py&perline=3)](https://skillicons.dev)
 
 ## Currently Exploring
 
@@ -44,5 +44,5 @@ and exploring the intersection of security and reliability.
 
 ## Connect
 
-[LinkedIn](YOUR_LINKEDIN)
-[Email](YOUR_EMAIL)
+[LinkedIn](www.linkedin.com/in/mouadh-boukari)
+[Email](mouadh.boukari@outlook.com)
